@@ -12,6 +12,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "43.0",
     "packageAliases": {
-        "Expense": "0Ho4P000000XZC8SAO"
+        "Expense": "0Ho4P000000XZC8SAO",
+        "Expense@0.1.0-1": "04t4P000001IeyUQAS"
     }
 }
